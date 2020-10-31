@@ -1,1 +1,1 @@
-![](images/s.png)
+![](sounds/s.png)
