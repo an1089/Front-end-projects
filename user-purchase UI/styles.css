@@ -1,0 +1,226 @@
+.sidebar {
+  height: 100%;
+  width: 160px;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: rgb(236,236,236);
+  overflow-x: hidden;
+  padding-top: 16px;
+  border-style: solid;
+  border-color: lightgrey;
+  border-width: medium;
+  border-top: none;
+}
+
+/* Style sidebar links */
+.sidebar a {
+  padding: 8px 8px 6px 15px;
+  text-align: center;
+  font-weight: bold;
+  font-size: 15px;
+  color: #818181;
+  display: block;
+}
+
+/* Style links on mouse-over */
+.sidebar a:hover {
+  color: rgb(226,101,8);
+}
+
+/* Style the main content */
+.main {
+  margin-left: 160px; /* Same as the width of the sidenav */
+  padding: 0px 10px;
+}
+
+/* Add media queries for small screens (when the height of the screen is less than 450px, add a smaller padding and font-size) */
+@media screen and (max-height: 450px) {
+  .sidebar {padding-top: 15px;}
+  .sidebar a {font-size: 18px;}
+}
+.support
+{
+  margin-top: 88%;
+  font-size:40px;
+
+}
+.top
+{
+  background-color: black;
+  width:100%;
+  height:13%;
+}
+h6
+{
+  color:white;
+  margin-left:13%;
+  padding:.6%;
+  font-size:13px;
+}
+.ang
+{
+  margin-left:85%;
+  margin-top:-2.6%;
+  padding-bottom: 1%;
+}
+.sg
+{
+  background-color:rgb(236,236,236);
+  width:100%;
+  height:70%;
+  margin-top:-1%;
+  padding:.7%;
+  border-style: solid;
+  border-color: lightgrey;
+  border-width: medium;
+  border-top: none;
+}
+.btn
+{
+  position:relative;
+  left:13%;
+  color:black;
+  border-color:lightgrey;
+  width:20%;
+  height:40px;
+  font-family: monospace;
+  font-size: 15px;
+
+
+}
+.btn2
+{
+  background-color: white;
+  position:relative;
+  left:22%;
+  color:black;
+  border-color:white;
+  width:23%;
+  height:40px;
+  font-family: monospace;
+  font-size: 15px;
+  padding-right:2%;
+
+}
+.btn3
+{
+  position:relative;
+  left:40%;
+  color:black;
+  border-color:white;
+  width:15%;
+  height:40px;
+  font-family: monospace;
+  font-size: 15px;
+}
+h3
+{
+ text-decoration-color: grey;
+  padding:1%;
+}
+p
+{
+  font-size:50%;
+  color:grey;
+  margin-left:80%;
+  margin-top:-4.6%;
+  padding:-1%;
+}
+img{
+  width:40px;
+  margin-left:2%;
+  padding-bottom:2.5%;
+}
+.tab
+{
+  background-color:rgb(236,236,236);
+  width: 103.9%;
+  height:25px;
+  margin-top:6%;
+  margin-right:20%;
+  margin-left:-2%;
+  border-style: solid;
+  border-color: lightgrey;
+  border-width: medium;
+  border-left: none;
+  border-right: none;
+  border-radius: 1px;
+}
+.items
+{
+  font-size: 15px;
+  font-family: sans-serif;
+  font-weight: bolder;
+}
+.text1
+{
+  margin-left:10%;
+}
+.text2
+{
+  margin-left:50%;
+}
+.text3
+{
+  margin-left:8%;
+}
+.text4
+{
+  margin-left:8%;
+}
+.orange
+{
+  background-color:rgb(230,140,30);
+  width:100%;
+  height:77px;
+  position:absolute;
+  top:88.7%;
+  margin-right:20%;
+  margin-left:-2%;
+}
+.item1
+{
+  font-size:30px;
+  color:white;
+  position:absolute;
+  left:2%;
+  top:26%;
+}.item2
+{
+  position:absolute;
+  left:12%;
+  top:25%;
+}
+.item3
+{
+  position:absolute;
+  left:19%;
+  top:24.5%;
+}
+.item4
+{
+  position:absolute;
+  left:27%;
+  top:24.5%;
+}
+
+.r1 div{
+  background-color: #f2f2f2;
+}
+
+.row img{
+  width: 20px !important;
+  background-color: orange;
+  padding: 5px;
+  border-radius: 5px;
+}
+
+.row{
+  border-bottom: 1px solid black;
+}
+.r3 img{
+  margin-top: 10px;
+  margin-bottom: 15px;
+}
