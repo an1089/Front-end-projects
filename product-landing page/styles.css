@@ -1,0 +1,98 @@
+.majorouter
+{
+    background-color:rgb(17, 73, 38);
+    padding:0%;
+    padding-top:5%;
+    padding-bottom: 5%;
+}
+.outer
+{
+    background-color: #4CAF50;
+    padding-left:3%;
+    padding-right: 3%;
+    padding-top:2%;
+    padding-bottom: 2%;
+
+}
+.inn
+{
+    width:100;
+    background-color: white;
+    padding-top: 1%;
+    padding-bottom:1%;
+}
+ul
+{
+  margin-left: 14%;
+  font-size: 12px;
+}
+.one
+{
+  margin-left: 25%;
+  border-radius: 1%;
+  background-color: #4CAF50;
+  width:12%;
+  font-size:12px;
+  padding:-1%;
+  color:white;
+
+}
+.navbar-brand
+{
+  font-size:25px;
+  font-family: Montserrat;
+}
+img
+{
+  width: 5%;
+  height:5%;
+
+}
+.inner
+{
+  width:55%;
+  height:30%;
+  margin-left: 10%;
+  font-size:14px;
+  padding-top: 8%;
+  padding-bottom: 10%;
+}
+.para
+{
+  width: 100%;
+  background-color:rgb(243, 245, 241);
+  color: rgb(76, 76, 76);
+}
+.read
+{
+  margin-top:5%;
+  border-radius: 1%;
+  background-color: #4CAF50;
+  width:25%;
+  padding: 1.5%;
+  color:white;
+}
+h6
+{
+  font-size: 20px;
+  font-family:sans-serif;
+}
+h2
+{
+  font-size: 32px;
+  font-family: 'Montserrat', sans-serif;
+  font-style: normal;
+  font-weight:bolder;
+  line-height: 50%;
+}
+.nav-item
+{
+  color:black;
+}
+.man{
+  position:absolute;
+  left:65%;
+  width:30%;
+  height:60%;
+  bottom:12%;
+}
